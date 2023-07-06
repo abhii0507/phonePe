@@ -1,0 +1,15 @@
+@media only screen and (max-width : 1024px){
+ #title{
+  text-align:center;
+ }
+
+ .title_img{
+  position:static;
+  transform :rotate(0);
+  width :50%
+ }
+
+ h2{
+  font-size:2rem;
+ }
+}
